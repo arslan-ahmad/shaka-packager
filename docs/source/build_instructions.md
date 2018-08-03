@@ -54,6 +54,7 @@ in your `~/.bashrc` or `~/.zshrc`). Assuming you cloned `depot_tools` to
 
 ```shell
 $ export PATH="$PATH:/path/to/depot_tools"
+$ export PATH="$PATH:${HOME}/depot_tools"
 ```
 
 ### Windows
